@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 
 I am a Developer Relations Engineer at Neo4j, focused on Java/JVM technologies. Technology fascinates me, and I love sharing what I learn with others as a conference speaker, content writer, and other channels. I write frequently on my website [jmhreif.com](https://jmhreif.com/), tweet occasionally at [@JMHReif](https://twitter.com/JMHReif), and always publish code to my [JMHReif Github](https://github.com/JMHReif)!
 
-![Jennifer Reif](ReignStudios_headshot2_square_1MB.jpg)
-
 #### Professional interests
 Graph databases (Neo4j), Java programming language, Java/JVM ecosystem technologies, data stores and query languages, developer productivity and efficiency
 
