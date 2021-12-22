@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 
 I am a Developer Relations Engineer at Neo4j, focused on Java/JVM technologies. Technology fascinates me, and I love sharing what I learn with others as a conference speaker, content writer, and other channels. I write frequently on my website [jmhreif.com](https://jmhreif.com/), tweet occasionally at [@JMHReif](https://twitter.com/JMHReif), and always publish code to my [JMHReif Github](https://github.com/JMHReif)!
 
+#### Content
+* Presentation videos: [https://www.youtube.com/playlist?list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt](YouTube playlist)
+* Blog posts: [https://jmhreif.com/](jmhreif.com website)
+* Session abstracts: [https://github.com/JMHReif/session-abstracts](Github repository)
+
 #### Professional interests
 Graph databases (Neo4j), Java programming language, Java/JVM ecosystem technologies, data stores and query languages, developer productivity and efficiency
 
