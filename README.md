@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Developer Relations Engineer at Neo4j, focused on Java/JVM technologies. Technology fascinates me, and I love sharing what I learn with others as a conference speaker, content writer, and other channels. I write frequently on my website https://jmhreif.com/[jmhreif.com^], tweet occasionally at https://twitter.com/JMHReif[@JMHReif^], and always publish code to my https://github.com/JMHReif[JMHReif Github^]!
+I am a Developer Relations Engineer at Neo4j, focused on Java/JVM technologies. Technology fascinates me, and I love sharing what I learn with others as a conference speaker, content writer, and other channels. I write frequently on my website [jmhreif.com](https://jmhreif.com/), tweet occasionally at [@JMHReif](https://twitter.com/JMHReif), and always publish code to my [JMHReif Github](https://github.com/JMHReif)!
+
+![Jennifer Reif](ReignStudios_headshot2_square_1MB.jpg)
 
 #### Professional interests
 Graph databases (Neo4j), Java programming language, Java/JVM ecosystem technologies, data stores and query languages, developer productivity and efficiency
@@ -23,8 +25,8 @@ Graph databases (Neo4j), Java programming language, Java/JVM ecosystem technolog
 Horseback riding, reading, listening to movie soundtracks/classical music, playing violin, and spending time with family
 
 #### Contact
-* Github: https://github.com/JMHReif[JMHReif^]
-* Twitter: https://twitter.com/JMHReif[@JMHReif^]
-* LinkedIn: https://www.linkedin.com/in/jmhreif/[jmhreif^]
-* Website: https://jmhreif.com/[jmhreif.com^]
-* Photo: https://drive.google.com/file/d/1O5dz5mYIWHpjcmFZleyHtWIxMlo0uq51/view?usp=sharing[Jennifer Reif^]
+* Github: [JMHReif](https://github.com/JMHReif)
+* Twitter: [JMHReif](https://twitter.com/JMHReif)
+* LinkedIn: [jmhreif](https://www.linkedin.com/in/jmhreif/)
+* Website: [jmhreif.com](https://jmhreif.com/)
+* Photo: [Jennifer Reif](https://drive.google.com/file/d/1O5dz5mYIWHpjcmFZleyHtWIxMlo0uq51/view?usp=sharing)
