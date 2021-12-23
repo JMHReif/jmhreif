@@ -1,6 +1,16 @@
+// tag::speaker-info[]
 == Speaker Information
-Jennifer Reif is a Developer Relations Engineer at Neo4j, conference speaker, blogger, and an avid developer and problem-solver. During and since earning an MS in CMIS, she has worked with many businesses and projects to organize and make sense of widespread data assets and leverage them for maximum business value. She has expertise in a variety of commercial and open source tools, and she enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively.
+Jennifer Reif is a Developer Relations Engineer at Neo4j, speaker, and blogger with an MS in CMIS. An avid developer and problem-solver, she has worked with many businesses and projects to organize and make sense of widespread data assets and leverage them for maximum business value. She has expertise in a variety of commercial and open source tools, and she enjoys learning new technologies, sometimes on a daily basis! Her passion is finding ways to organize chaos and deliver software more effectively.
 
 == Photos
 * https://drive.google.com/file/d/1O5dz5mYIWHpjcmFZleyHtWIxMlo0uq51/view?usp=sharing[Click here to view/download headshot^]
 * https://drive.google.com/file/d/1i5XaKpkcmTnbtIFpgNXeANkev4N6ATlx/view?usp=sharing[Click here to view/download profile image^]
+
+== Contact
+* Github: https://github.com/JMHReif[JMHReif^]
+* Twitter: https://twitter.com/JMHReif[@JMHReif^]
+* LinkedIn: https://www.linkedin.com/in/jmhreif/[jmhreif^]
+* Website: https://jmhreif.com/[jmhreif.com^]
+* Medium blog: https://medium.com/@jennifer-reif[Jennifer Reif^]
+* Email: mailto:jennifer@thehecklers.org[jennifer@thehecklers.org^]
+// end::speaker-info[]
