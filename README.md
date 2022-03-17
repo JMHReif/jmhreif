@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Developer Relations Engineer at Neo4j, focused on Java/JVM technologies. Technology fascinates me, and I love sharing what I learn with others as a conference speaker, content writer, and other channels. I write frequently on my website [jmhreif.com](https://jmhreif.com/), tweet occasionally at [@JMHReif](https://twitter.com/JMHReif), and always publish code to my [JMHReif Github](https://github.com/JMHReif)!
+I am a Developer Advocate at Neo4j, focused on Java/JVM technologies. Technology fascinates me, and I love sharing what I learn with others as a conference speaker, content writer, and other channels. I write frequently on my website [jmhreif.com](https://jmhreif.com/), tweet occasionally at [@JMHReif](https://twitter.com/JMHReif), and always publish code to my [JMHReif Github](https://github.com/JMHReif)!
 
 #### Content
 * Presentation videos: [YouTube playlist](https://www.youtube.com/playlist?list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt)
