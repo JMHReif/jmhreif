@@ -1,0 +1,91 @@
+= Speaker Resumé
+
+This page is dedicated to Jennifer's resume as a speaker. She has traveled the world to participate in world-class technical events with audiences large and small.
+
+Speaking provides a way to share her learnings and experiences with others and learn from theirs, as well. Many of her slide decks are available on https://speakerdeck.com/jmhreif[Jennifer's SpeakerDeck page^] or included in her https://github.com/JMHReif?tab=repositories[code projects on Github^], and recordings of presentations are aggregated to a https://youtube.com/playlist?list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt[YouTube playlist^].
+
+== *Conferences*
+[cols="2,2,1,1",options="header"]
+|===
+|*Name*                   |*Location*               |*Year*             |*Link*
+
+|WeAreDevelopers Live     |Virtual                  |2024               |https://www.meetup.com/wearedevelopers-community/events/297065678/[Transposing One Profession to Another^]
+|Neo4j Connections: GenAI |Virtual                  |2023               |https://neo4j.com/videos/improved-results-with-vector-search-in-knowledge-graphs/[Improved Results with Vector Search in Knowledge Graphs^]
+|NODES 2023               |Virtual                  |2023               |https://www.youtube.com/watch?v=BP9nATW3y_M&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=30&t=3s&pp=gAQBiAQB[Applying Graph Data and AI to Hack Pet Travel^]
+|NODES 2022               |Virtual                  |2022               |https://www.youtube.com/watch?v=ALxxfKC0HsE&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=28&pp=gAQBiAQB[Send Forth the Microservices^]
+|JConf                    |Chicago, IL, USA         |2022               |https://2022.jconf.dev/session?id=361716[Building Java Applications on Neo4j^]
+|KCDC                     |Kansas City, MO, USA     |2022               |https://speakerdeck.com/jmhreif/be-a-kid-again-learn-the-latest-java-features-through-exploration[Learn the Latest Java Features through Exploration^]
+|GraphConnect             |Austin, TX, USA          |2022               |https://www.youtube.com/watch?v=OjikNJka2xw&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=24&pp=gAQBiAQB[Building Java Applications on Neo4j^], https://www.youtube.com/watch?v=9mQu60EUIPE&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=25&pp=gAQBiAQB[Delegate, Dominate, Automate^], and https://www.youtube.com/watch?v=HwetrY62ZbU&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=26&pp=gAQBiAQB[Connecting to Neo4j with Java and AWS Lambda^]
+|Devnexus                 |Atlanta, GA, USA         |2022               |https://devnexus.com/archive/devnexus2022/presentations/6697/[Send Forth the Microservices^]
+|Confoo                   |Montreal, QC, Canada     |2022               |
+|JConf.dev                |Virtual                  |2021               |
+|CodeMotion               |Virtual                  |2021               |https://www.youtube.com/watch?v=Cc7B1MUiztE&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=19&t=1s&pp=gAQBiAQB[Building Java Applications on Neo4j^]
+|DevoxxUK                 |London, UK               |2021               |https://www.youtube.com/watch?v=Cc7B1MUiztE&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=19&t=1s&pp=gAQBiAQB[Cypher Sleuthing^]
+|Scale by the Bay         |Virtual                  |2021               |https://www.youtube.com/watch?v=wLooxHxh9po&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=17&pp=gAQBiAQB[Building Java Applications on Neo4j^]
+|KCDC                     |Kansas City, MO, USA     |2021               |https://speakerdeck.com/jmhreif/cypher-sleuthing-tips-and-tricks-for-querying-a-graph[Cypher Sleuthing^]
+|SpringOne                |Virtual                  |2021               |https://springone.io/2021/sessions/database-decisions-for-application-development[Code Wars^]
+|NODES 2020               |Virtual                  |2020               |https://www.youtube.com/watch?v=btTlBg45GDM&list=PL9Hl4pk2FsvXfH-q5aghB2g7AlIztqoaf&index=9&t=9s&pp=iAQB[Cypher Sleuthing^]
+|Confoo                   |Montreal, QC, Canada     |2020               |
+|ODSC West                |San Francisco, CA, USA   |2019               |
+|GraphTour (NYC)          |New York, NY, USA        |2019               |https://speakerdeck.com/jmhreif/leveraging-graphs-for-better-ai-v3[Leveraging Graphs for Better AI^]
+|NODES 2019               |Virtual                  |2019               |https://www.youtube.com/watch?v=9irwQ17RCqY&list=PL9Hl4pk2FsvUbsmdPrqTRF_DWvUb4z5AK&index=53&pp=iAQB[Intro to Neo4j^] and https://www.youtube.com/watch?v=7Hms3EOImPw&list=PL9Hl4pk2FsvUbsmdPrqTRF_DWvUb4z5AK&index=50&pp=iAQB[Creating a Data Marvel^]
+|VoxxedDays Banff         |Banff, AB, Canada        |2019               |https://speakerdeck.com/jmhreif/leveraging-graphs-for-better-ai-1675eebd-aa2d-4bc2-b5f6-8a7ffcaf1a98[Leveraging Graphs for Better AI^]
+|Oracle CodeOne           |San Francisco, CA, USA   |2019               |https://speakerdeck.com/jmhreif/code-wars-how-the-database-affects-your-application-18d27007-3a61-4b48-86c6-caaf7e2081fc[Code Wars^] and https://speakerdeck.com/jmhreif/getting-graphic-extract-maximum-value-from-the-top-to-the-bottom-of-the-stack[Getting Graphic^]
+|KCDC                     |Kansas City, MO, USA     |2019               |https://kcdc2019.myconf.app/session/ses-84652[Graph Algorithms^]
+|GraphTour (Toronto)      |Toronto, ON, Canada      |2019               |https://speakerdeck.com/jmhreif/leveraging-graphs-for-better-ai-v2[Leveraging Graphs for Better AI^] and https://speakerdeck.com/jmhreif/there-and-back-again-a-developers-tale[There and Back Again^]
+|Big Data / AI Toronto    |Toronto, ON, Canada      |2019               |https://speakerdeck.com/jmhreif/leveraging-graphs-for-better-ai[Leveraging Graphs for Better AI^]
+|DevoxxUK                 |London, UK               |2019               |https://www.youtube.com/watch?v=UDDXNhLPTx8&list=PLRsbF2sD7JVqkOs-GFGxBmNf0KECELaiU&index=14&pp=iAQB[Get to Know the Real World^] and https://www.youtube.com/watch?v=9MDHuNRhvcg&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=5&t=1s&pp=gAQBiAQB[Machine learning and link prediction^]
+|Confoo                   |Montreal, QC, Canada     |2019               |https://confoo.ca/en/yul2019[Graph Algorithms and Get to Know the Real World^]
+|Devnexus                 |Atlanta, GA, USA         |2019               |https://devnexus.org/archive/devnexus2019/presentations/2778/[Code Wars^]
+|JFokus                   |Stockholm, Sweden        |2019               |https://jfokus.se/jfokus19/talks/2775[Graph Algorithms^]
+|VoxxedDays Banff         |Banff, AB, Canada        |2018               |https://speakerdeck.com/jmhreif/getting-graphic-extract-maximum-value-from-the-top-to-the-bottom-of-the-stack[Getting Graphic^]
+|Oracle CodeOne           |San Francisco, CA, USA   |2018               |https://speakerdeck.com/jmhreif/graph-algorithms-predict-real-world-behavior[Graph Algorithms^] and https://speakerdeck.com/jmhreif/get-to-know-the-real-world-discovering-connected-data-with-a-graph-database[Discovering Connected Data^]
+|DevUp                    |St. Louis, MO, USA       |2018               |https://speakerdeck.com/jmhreif/extensibility-for-java-developers-in-neo4j[Extensibility for Java Developers in Neo4j^]
+|GraphConnect             |New York, NY, USA        |2018               |https://graphconnect2018.sched.com/speaker/jennifer_reif.1yd8supx[Pass like a Pro^]
+|GraphTour (Chicago)      |Chicago, IL, USA         |2018               |
+|GraphTour (Seattle)      |Seattle, WA, USA         |2018               |
+|GraphTour (SF)           |San Francisco, CA, USA   |2018               |
+|JavaOne                  |San Francisco, CA, USA   |2016               |
+|===
+
+== *Meetups/Webinars*
+[cols="2,2,1,1",options="header"]
+|===
+|*Group*                     |*Location*             |*Year*           |*Link*
+
+|SFJUG                       |Virtual                |2024             |https://www.meetup.com/sfjava/events/296802212/[What does GenAI mean for the Java developer?^]
+|ACM Chicago                 |Virtual                |2024             |https://www.meetup.com/acm-chicago/events/298445257/[Hallucination-free zone: LLMs + Graph Databases got your back!^]
+|Data Science KC             |Kansas City, MO, USA   |2024             |https://www.meetup.com/data-science-kc/events/298393673/[Improved Results with Vector Search in Knowledge Graphs^]
+|Humanitarian AI             |Virtual                |2023             |https://www.youtube.com/watch?v=ysBwXTR8390&list=PL9Hl4pk2FsvW1NtrhILyptfFnLMjg5Vmc&index=9&pp=iAQB[Graping IATI Aid Activity for LLM Powered Chatbots^]
+|Starof Java                 |Virtual                |2023             |https://www.youtube.com/watch?v=3vSQzGiAsbE[Send Forth the Microservices^]
+|CodeMentor                  |Virtual                |2022             |https://www.codementor.io/events/graph-databases-ez6gydjwjl[Solving Problems with Connected Data^]
+|DataOps Poland              |Virtual                |2022             |https://www.meetup.com/dataops-poland/events/285433647/[What You Need to Know about Graph Databases^]
+|Ingolstadt JUG              |Virtual                |2022             |https://jug-in.bayern/post/2022-05-neo4j/[What Java Developers Need to Know about Graph Databases^]
+|Turkey Java Community       |Virtual                |2022             |https://kommunity.com/turkiye-java-community/events/divide-and-conquer-send-forth-the-microservices-482ca24b[Send Forth the Microservices^]
+|Azul Tech Talks             |Virtual                |2022             |https://www.azul.com/webinar-neo4j/[Java Developer Productivity with Graph Databases^]
+|Neo4j Training              |Virtual                |2021             |https://speakerdeck.com/jmhreif/hands-on-with-neo4j-aura-free-tier-nodes-2021-training[Hands-on with Neo4j Aura^]
+|Starof Java                 |Virtual                |2021             |https://www.youtube.com/watch?v=15n0R9zClYM[Building intelligent java applications^]
+|St. Louis FullStack         |Virtual                |2021             |https://www.meetup.com/stlfullstack/events/279549793/[Building Java Applications on Neo4j^]
+|Gateway JUG                 |Virtual                |2021             |https://www.meetup.com/gatewayjug/events/278615478/[Building Java Applications on Neo4j^]
+|Women in Data (St. Louis)   |Virtual                |2021             |
+|Detroit JUG                 |Detroit, MI, USA       |2019             |https://www.meetup.com/detroit-java-user-group/events/266388976/[There and Back Again^]
+|Data Science KC             |Kansas City, MO, USA   |2019             |https://www.meetup.com/data-science-kc/events/264257382/[Get to Know the Real World^]
+|KCJUG                       |Kansas City, MO, USA   |2019             |https://www.meetup.com/kansascityjug/events/258330219/[Get to Know the Real World^]
+|Seattle Data/Analytic/ML    |Seattle, WA, USA       |2018           |https://www.meetup.com/seattle-daml/events/255617562/[Graph Algorithms^]
+|WindyCity GraphDB           |Chicago, IL, USA       |2018           |https://www.meetup.com/graphdb-midwest/events/253875020/[Investigating Complex Relationships in Graphs^]
+|WiMLDS                      |London, UK             |2018           |
+|Gateway JUG                 |St. Louis, MO, USA     |2017           |https://www.meetup.com/gatewayjug/events/237669620/[Clouds & Containers^]
+|===
+
+== *Other Appearances*
+[cols="2,2,1,1",options="header"]
+|===
+|*Group*                     |*Location*             |*Year*           |*Link*
+
+|GraphStuff.FM (co-host)     |Virtual                |2023             |https://graphstuff.fm/episodes[Episodes^]
+|Neo4j Live (host)           |Virtual                |2023             |https://www.youtube.com/watch?v=wndOSi3i5OY&list=PL9Hl4pk2FsvW1NtrhILyptfFnLMjg5Vmc&index=15&t=1s&pp=iAQB[Movie Recommendations^]
+|Hackmamba Twitter Space     |Virtual                |2023             |
+|Between Chair and Keyboard  |Virtual                |2022             |https://www.youtube.com/watch?v=OkuG58_IlCw&list=PLf8aIqYXdUo9Su_yALHM2Z4CPDnl491wt&index=22&pp=gAQBiAQB[Episode^]
+|BragTalks, Ep. 11           |Virtual                |2022             |https://open.spotify.com/episode/1X6c0qUWIInIl0ESgziuTc?go=1&sp_cid=d22c310b9c60ee5d015ad27928527e47&utm_source=embed_player_p&utm_medium=desktop[Getting Your First Job in Tech^]
+|DevNation: The Show         |Virtual                |2022             |https://www.youtube.com/watch?v=nIv08DwbSXQ&list=PLf3vm0UK6HKpbZvVaYjOmnvnVXBkHPvms&index=4&t=1s&pp=iAQB[March 3^]
+|===
